@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Анастасия\Desktop\Новая папка (2)\idpoa\ConsoleApplication1\ConsoleApplication1.cpp(122,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Анастасия\Desktop\Новая папка (2)\idpoa\ConsoleApplication1\ConsoleApplication1.cpp(137,48): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\Анастасия\Desktop\Новая папка (2)\idpoa\ConsoleApplication1\ConsoleApplication1.cpp(155,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ConsoleApplication1.vcxproj -> C:\Users\Анастасия\Desktop\Новая папка (2)\idpoa\x64\Debug\ConsoleApplication1.exe
